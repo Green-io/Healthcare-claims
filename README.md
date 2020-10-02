@@ -28,7 +28,7 @@ The solution to the problem stated before is to create an **AI driven FRAUD DETE
 3. Created an **API using Flask** that can perform the function and hosted it on Heroku.
 4. Created **android application** to make the application easy to use.
 
-## Technology Stack
+## Technology Stack 
 - **Data Analysis** and **Machine Learning** is used for flagging the claims based on the dataset.
 - In **Android App** , **Flutter** has been used in the front end along with **Flask** for API.
 - **Heroku** Cloud Service has been used to deploy the web app and API.
