@@ -7,6 +7,9 @@ This is an android application, developed using Flutter and Flask, can be run on
 ## View Demo:
 https://youtu.be/2qdDjE1wY9M
 
+## APK Link:
+https://drive.google.com/file/d/1HZEfh7E9xXsDOHLhSf7MmWumztPe7nzr/view?usp=sharing
+
 ## Screenshots:
 <img src="assets/screenshots/welcome-screen.png" align="left" height="640" width="360" ></a>
 <img src="assets/screenshots/user-login.png" align="left" height="640" width="360" ></a>
