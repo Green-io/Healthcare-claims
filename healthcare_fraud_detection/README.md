@@ -8,12 +8,12 @@ This is an android application, developed using Flutter and Flask, can be run on
 https://youtu.be/2qdDjE1wY9M
 
 ## Screenshots:
-<img src="assets/admin-login.png" align="left" height="640" width="360" ></a>
-<img src="assets/admin-page.png" align="left" height="640" width="360" ></a>
-<img src="assets/claim-form.png" align="left" height="640" width="360" ></a>
-<img src="assets/drawer.png" align="left" height="640" width="360" ></a>
-<img src="assets/home-screen.png" align="left" height="640" width="360" ></a>
-<img src="assets/info-screen.png" align="left" height="640" width="360" ></a>
-<img src="assets/user-login.png" align="left" height="640" width="360" ></a>
-<img src="assets/user-signup.png" align="left" height="640" width="360" ></a>
-<img src="assets/welcome-screen.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/admin-login.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/admin-page.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/claim-form.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/drawer.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/home-screen.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/info-screen.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/user-login.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/user-signup.png" align="left" height="640" width="360" ></a>
+<img src="assets/screenshots/welcome-screen.png" align="left" height="640" width="360" ></a>
