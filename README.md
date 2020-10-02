@@ -4,7 +4,7 @@
 HealthCare Claims is an **AI-based Android Application** tool that enables people to flag the claims as fraud or not.
 
 ## What is a Healthcare fraud?
-A healthcare or a medical insurance fraud is more commonly defined as knowingly executing treatments to render medically unnecessary or over utilizing services that result in useless costs to the healthcare system, including healthcare insurance providers. Potential offenders may include patients, hospitals, doctors, vendors, suppliers or even pharmacists.
+A **healthcare or a medical insurance fraud** is more commonly defined as knowingly executing treatments to render medically unnecessary or over utilizing services that result in useless costs to the healthcare system, including healthcare insurance providers. Potential offenders may include patients, hospitals, doctors, vendors, suppliers or even pharmacists.
 
 ## Impact of Healthcare frauds:
 Here are some facts related to healthcare claims:
