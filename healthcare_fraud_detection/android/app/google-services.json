@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855613866432",
+    "firebase_url": "https://healthcare-fraud-detection.firebaseio.com",
+    "project_id": "healthcare-fraud-detection",
+    "storage_bucket": "healthcare-fraud-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855613866432:android:6524d973a542b5ecea4825",
+        "android_client_info": {
+          "package_name": "io.green.healthcare_fraud_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855613866432-14b4ndbnebmg3o8ku7vk6ao82j0gn0ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qGi62cJhIkAGVxVPY5v22MRo_xP2rgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855613866432-14b4ndbnebmg3o8ku7vk6ao82j0gn0ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
