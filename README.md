@@ -20,7 +20,10 @@ HealthCare Claims is an **AI-based Android Application** tool that enables peopl
 - **Adaptability**: The application can be easily modified according to the need of the User.
 - **Time Saving**: Application can be used to flag the claims.
 
-## Demo Video
+## For Demo Video visit
+https://youtu.be/2qdDjE1wY9M4
+
+##
 
 ## Contact Details
 - [Rohit Verma](https://www.linkedin.com/in/rohit96)
